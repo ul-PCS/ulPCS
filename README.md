@@ -4,7 +4,7 @@ This system enables to enforce a pre-determined policy on signatures while ensur
 
 The structure of this repository is as follows:
 * `RBAC`: Python code to emulate the proposed Role-based UL-PCS scheme. Please execute test.py for testing.
-	- Acc.py: Python code to emulate the Karantaidou and Baldimtsi's accumulator scheme.
+	- Acc.py: Python code to emulate the accumulator scheme.
 	- BG.py: Python code to emulate a bilinear-pairing group.
 	- BLS.py: Python code to emulate BLS signatures.
 	- Bulletproof.py: Python code to emulate the Range-proof.
